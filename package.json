@@ -1,11 +1,7 @@
 {
-  "name": "figma-vite",
+  "name": "figma-extension-key",
   "version": "1.0.0",
-  "description": "Sample Figma plugin using Vite Preact template",
-  "author": {
-    "name": "Mykhaylo Ryechkin",
-    "url": "https://github.com/mryechkin"
-  },
+  "description": "Figma plugin",
   "private": true,
   "type": "module",
   "scripts": {
